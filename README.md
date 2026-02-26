@@ -1,3 +1,5 @@
+![Hero](assets/hero.png)
+
 <h1 align="center">Automation Toolkit</h1>
 
 <p align="center">
