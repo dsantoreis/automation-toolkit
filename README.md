@@ -99,7 +99,7 @@ Built from real production needs — every script exists because we needed it ru
 
 ## About
 
-Built by **Daniel Santo Reis** — AI Engineer based in Zurich, Switzerland.
+Built by **Daniel dos Santo Reis** — AI Engineer based in Zurich, Switzerland.
 Part of the [Loomix](https://github.com/loomix-ai) ecosystem.
 
 ## License
